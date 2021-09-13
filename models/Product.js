@@ -26,7 +26,7 @@ Product.init(
     },
     // define an price column
     price: {
-      type: DataTypes.DECIMAL,
+      type: DataTypes.DECIMAL(10,2),
       allowNull: false,
       // if allowNull is set to false, we can run our data through validators before creating the table data
       // validates that the value is a decimal
@@ -49,7 +49,10 @@ Product.init(
     category_id: {
       type: DataTypes.INTEGER,
       // references the category model's id
-      references: category_id
+      references: {
+        model: 'category',
+        key: 'id'
+      }
     }
   },
   {
