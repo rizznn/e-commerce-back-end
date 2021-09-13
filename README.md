@@ -56,6 +56,14 @@ POST, PUT and DELETE a category
 ![image](https://user-images.githubusercontent.com/80712058/133093690-8e709656-7063-4b1f-85c4-a119f87a3655.png)
 
 POST, PUT and DELETE a product
+![image](https://user-images.githubusercontent.com/80712058/133168716-1b831533-a8c5-4241-8624-55583f352019.png)
+![image](https://user-images.githubusercontent.com/80712058/133169013-1cf125cf-1f8c-4b64-a335-a93aade75f84.png)
+![image](https://user-images.githubusercontent.com/80712058/133169061-6e99331f-9bea-4452-ad70-a365e843fc02.png)
+
+POST, PUT and DELETE a tag
+![image](https://user-images.githubusercontent.com/80712058/133169105-d3eaabe1-fa64-444c-9666-79a8eca2ec6e.png)
+![image](https://user-images.githubusercontent.com/80712058/133169140-28fc0116-2b3d-4830-bbfe-df975e9ccc5f.png)
+![image](https://user-images.githubusercontent.com/80712058/133169167-430b7f07-6bd8-4091-9ba3-219c52a0e6d4.png)
 
 
 ## Contributing
