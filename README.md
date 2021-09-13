@@ -38,6 +38,24 @@ In your terminal, run the seed by typing `npm run seed` then `npm start` to run 
 * User will be able to create, read, update and delete (CRUD) categories, products and tags
 
 ## Screenshots
+GET all categories, products and tags
+![image](https://user-images.githubusercontent.com/80712058/133092676-d255bb0f-5cd5-40b6-b6aa-5095f8339eab.png)
+![image](https://user-images.githubusercontent.com/80712058/133092823-d3dc6897-c90f-46a3-b985-416131c0ef64.png)
+![image](https://user-images.githubusercontent.com/80712058/133092876-5a74158b-0720-4587-a860-e589f620ce14.png)
+
+
+GET one category, product and tag
+![image](https://user-images.githubusercontent.com/80712058/133092995-28b971b3-8a79-4507-bcc0-1c6c9b14dbfc.png)
+![image](https://user-images.githubusercontent.com/80712058/133093080-0d7c8fc0-e6d7-433d-a5a4-447229147b69.png)
+![image](https://user-images.githubusercontent.com/80712058/133093126-46efe222-acec-4c58-8794-62189f286400.png)
+
+
+POST, PUT and DELETE a category
+![image](https://user-images.githubusercontent.com/80712058/133093453-4f23e3b5-a88e-4260-a105-255be0a34b5f.png)
+![image](https://user-images.githubusercontent.com/80712058/133093577-b0070db1-307b-4263-9436-6be392746aa9.png)
+![image](https://user-images.githubusercontent.com/80712058/133093690-8e709656-7063-4b1f-85c4-a119f87a3655.png)
+
+POST, PUT and DELETE a product
 
 
 ## Contributing
