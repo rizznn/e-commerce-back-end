@@ -80,3 +80,10 @@ Contact me or create an issue or pull request
 
 ## Link to application repo
 https://github.com/rizznn/e-commerce-back-end
+
+## Walkthrough Video
+Part 1 : create schema, seed database, start application, GET all, one, POST, PUT, DELETE categories and products, and GET all, one and POST tag:       https://drive.google.com/file/d/1cmMc44DXtB2rtkxrXMi53P8nsdcmTy80/view
+
+
+
+Part 2 continuation: POST and DELETE of tag:     https://drive.google.com/file/d/112vlLwMPh7zX5Ajefy1SXtIvtJgqyJuP/view
